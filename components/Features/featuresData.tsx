@@ -1,4 +1,4 @@
-import { Feature } from "@/types/feature";
+import { Feature } from "../../types/feature";
 import Image from "next/image";
 
 const featuresData: Feature[] = [
